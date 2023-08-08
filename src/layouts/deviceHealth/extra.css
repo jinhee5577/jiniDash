@@ -1,0 +1,113 @@
+.css-beke6m {
+  margin-bottom: 17px !important;
+}
+
+#deviceLinechart .css-glo75k {
+  padding: .5rem;
+  box-sizing: border-box;
+}
+
+#deviceLinechart .css-sxk6u4 {
+  margin-top: 0;
+}
+
+#deviceLinechart .css-d4e2jf {
+  padding: 0;
+}
+
+#deviceSearch {
+  width: 65%;
+  position: relative;
+}
+
+#deviceLinechart .css-1lrs0mp-MuiFormControl-root-MuiTextField-root {
+  width: 100%;
+}
+
+#deviceLinechart .css-5mmmz-MuiInputBase-input-MuiOutlinedInput-input {
+  height: 1em;  
+}
+
+#deviceLinechart .css-56s1s1-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 1.5rem;
+}
+
+#deviceLinechart .css-uk4jy3-MuiFormLabel-root-MuiInputLabel-root {
+  left: 10px;  
+  font-size: 0.8rem;
+  color: rgb(48 58 107 / 46%);
+}
+
+#deviceSearch .searchIcon {
+  position: absolute;
+  right: 6px;
+}
+
+#deviceSearch .searchIcon span {
+  margin-top: -2px;
+  font-size: 2rem !important;
+  opacity: .7;
+}
+
+
+/* ----- 테이블 ----- */
+#deviceTable {
+  margin-top: 10px;
+}
+
+#deviceTable .css-17i9bfx {
+  background: rgba(150, 146, 146, 0.3);
+  color: rgb(36, 34, 34) !important;
+  box-shadow: none;
+}
+
+#deviceTable .css-yyfzhs {
+  padding: 0 10px;
+  padding-top: 8px;
+  box-sizing: border-box;
+}
+
+#deviceTable .css-1qsnayc-MuiTableContainer-root {
+  max-height: 415px;
+}
+
+#deviceTable thead th {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-bottom: .4px solid rgba(155, 149, 149, 0.29);
+}
+
+#deviceTable tbody tr {
+  width: 100%;
+  position: relative;
+}
+
+#deviceTable tbody .css-a8rluf {
+  padding: 7px 24px !important;
+  box-sizing: border-box;
+}
+
+#deviceTable tbody .css-15jcv17 {
+  padding: 4.6px !important;
+}
+
+#deviceTable tbody .css-1nos2st {
+  width: 100% !important;
+  position: absolute;
+  left: 0 !important;
+  padding: 4.6px 24px;
+  text-align: center !important;
+  transition: all .3s;
+  opacity: 0;
+  background-color: rgb(255, 255, 255);
+  border-top: .4px solid rgba(189, 43, 43, 0.29);
+  border-bottom: .4px solid rgba(189, 43, 43, 0.29);
+}
+
+#deviceTable .css-2mx4vn {
+  padding: 10px;
+}
+
+#deviceTable .css-2mx4vn .css-1wuttcd {
+  margin: 0 auto;
+}

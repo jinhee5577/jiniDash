@@ -1,0 +1,27 @@
+.css-1fke4z6-MuiGrid-root {
+  max-width: 50% !important;  
+}
+
+.css-1igy7s2 {
+  padding: 18px !important;
+}
+
+.css-15jcv17 {
+  padding: 2px !important;
+}    
+
+.css-a8rluf {
+  padding: 2px !important;  
+}
+
+.css-1qsnayc-MuiTableContainer-root {
+  max-height: 260px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.css-n3cyd2-MuiTableRow-root:hover {
+  border-radius: 5px;
+  background-color: rgba(214, 233, 242, 0.667);
+  cursor: pointer;
+}
