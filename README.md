@@ -1,8 +1,18 @@
+# React와 material-dashboard템플릿을 활용하여 관리자페이지 백오피스 개발중입니다.
+
 <p align="center">
   <img width="1256" alt="img1" src="https://github.com/jinhee5577/jiniDash/assets/82584287/3d6e3bbe-f10d-40a6-89ea-cc8995dd6621">
 </p>
 
-## React와 material-dashboard템플릿을 활용하여 관리자페이지 백오피스 개발중입니다.
+<p align="center">
+  <img width="1280" alt="img3" src="https://github.com/jinhee5577/jiniDash/assets/82584287/1458a92f-230f-481f-8dd6-b672f7c265a9">
+</p>
+
+<p align="center">
+  <img width="1278" alt="img2" src="https://github.com/jinhee5577/jiniDash/assets/82584287/ccaf3ca8-9363-4b2b-8dda-990f9965d465">
+</p>
+
+
 
 ## Table of Contents
 
