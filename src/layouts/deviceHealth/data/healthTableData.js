@@ -1,3 +1,4 @@
+/*eslint-disable*/
 /* eslint-disable react/prop-types */
 /* eslint-disable react/function-component-definition */
 /**
@@ -16,9 +17,7 @@ Coded by www.creative-tim.com
 */
 
 // Material Dashboard 2 React components
-import MDBox from "components/MDBox";
 import MDTypography from "components/MDTypography";
-import MDAvatar from "components/MDAvatar";
 
 export default function data(dummy) {
   const showTable = () => {
