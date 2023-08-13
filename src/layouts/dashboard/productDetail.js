@@ -23,7 +23,7 @@ function Detail( props ){
 
     const postID = async () => {
        try{
-         const { data } = await axios.post(`http://localhost:8081/product/${id}`);
+         const { data } = await axios.post(`http://localhost:8080/product/${id}`);
          data['select'] = [color_selec, size_selec];
          SETfind(data);
        //  console.log(data);

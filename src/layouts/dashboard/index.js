@@ -65,7 +65,7 @@ function Dashboard() {
   const test = async () => {
     try {
       // 서버에서 데이터 잘받아 오나 api테스트.
-      const { data } = await axios.get("http://localhost:8081/apitest");
+      const { data } = await axios.get("https://jinidash.du.r.appspot.com/apitest");
       console.log(data);
     } catch (err) {
       console.log(err);
