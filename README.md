@@ -21,6 +21,8 @@ Node.js, express를 활용해서 만든 서버에서는 Front단에서 요청한
 express로 만든 서버에서는 백오피스 관련 데이터가 저장된 MongoDB에서 쿼리문에 맞춰 가져온 결과를
 다시 Front-end에 전송해 주도록 RESTapi를 개발 하였습니다.
 
+#### express로 개발된 server 코드 저장소: https://github.com/jinhee5577/express-server 입니다.
+
 그 후 구글 클라우드에 연동하여 사이트를 배포 하였지만 로컬에서 개발한 프론트 화면이 배포를 한 사이트의
 프론트 화면과 달라서 수정을 진행 중입니다.
 
