@@ -38,6 +38,8 @@ Front-end에서 query string에 정보를 넣어 요청을 보내면 이곳 서�
 처리하여 받은 결과를 다시 Front-end로 전송해 주어 CORS에러를 해결 할 수 있었습니다.
 
 
+
+
 ## Table of Contents
 
 - [Versions](#versions)
