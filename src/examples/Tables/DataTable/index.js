@@ -141,7 +141,7 @@ function DataTable({
   let lastTD; // 부모tr에서 설명란 막내 자식테그를 담는 변수.
   const getDeviceDataShow = async (company) => {
     try {
-      const { data } = await axios.get("http://localhost:8081/devicehealth", {params: {company: company}});
+      const { data } = await axios.get("https://jini3d.du.r.appspot.com/devicehealth", {params: {company: company}});
       console.log(data);
     } catch(err) {
       console.log(err);
@@ -236,7 +236,7 @@ function DataTable({
                 onClick={(e) => {
                   // 각 tableRow 클릭했을때 해당ip번호로 내가 만든 서버DB에서 ip번호와 같은데이터 찾아서 보내준다.
                   if(row?.original?.ip) {
-                    axios.get("http://localhost:8081/dangerserver", {params: {ip: row?.original?.ip}})
+                    axios.get("https://jini3d.du.r.appspot.com/dangerserver", {params: {ip: row?.original?.ip}})
                     .then((res) => {
                       // get요청 받은 데이터 리덕스로 보냄.
                       dispatch(changeDangerServer(res.data));
